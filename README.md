@@ -111,3 +111,33 @@ The dataset is available as a .csv file.
 ## Stretch Goals
 
 - [ ] Create Dashboard in Google Looker or Tableau
+
+### [Data Visualization](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/6.Data%20Visualization.ipynb)
+
+In this step, we focus on data visualization using data extracted from an RDBMS via SQL queries. The key objectives include:
+- Understanding data distribution to identify patterns and outliers.
+- Exploring relationships between features through visual analysis.
+- Comparing and composing data using charts and graphs for better insights.
+
+### Findings
+- PostgreSQL is becoming the most popular database, while SQLite is growing for smaller applications.
+- C# and SQL are in high demand, while JavaScript is still popular but slightly less preferred.
+- Cloud services are expanding beyond AWS, with Google Cloud and Digital Ocean gaining users.
+- React, Spring Boot, and FastAPI are the top web frameworks, with FastAPI becoming more popular for Python-based APIs.
+
+#### Current Technology Usage
+![6](Tab 1 _current Technology in use.png)
+
+#### Future Technology Trend
+![7](https://github.com/user-attachments/assets/98868617-b1d0-4f1b-b816-a7dac4951ac7)
+
+#### Demographics
+![8](https://github.com/user-attachments/assets/4c461948-3190-4d24-95a9-5f8c0d356e72)
+
+### Key Takeaways
+- SQL and PostgreSQL are must-have skills for database professionals.
+- C# is a valuable skill for developers, especially in enterprise and gaming.
+- Diversify beyond JavaScript and explore backend frameworks like FastAPI.
+- Multi-cloud expertise is crucial, not just AWS.
+- FastAPI is the future of Python APIs, making it an essential skill for backend engineers.
+
