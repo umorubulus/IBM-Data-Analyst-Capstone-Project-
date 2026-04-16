@@ -12,31 +12,6 @@ For this project, I will assume the role of an Associate Data Analyst at a techn
 
 In this project, I will analyze data to answer key questions about the use of technology. I will analyze trends in programming languages, databases, platforms, and frameworks, focusing on those technologies professionals currently use and those they aim to learn in the future. Through careful analysis, I will extract insights highlighting emerging patterns and shifts in the tech landscape. These findings will then be presented to various stakeholders in my organization for informed decision-making.
 
-### Task 1
-
-Our first task is to collect data for the technology skills that are most in demand from various sources including job postings, blog posts, and surveys. We will begin by scraping internet websites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.
-
-### Task 2
-
-Once we've collected enough data we will take the collected data and prepare it for analysis by using data wrangling techniques like finding duplicates, removing duplicates, finding missing values, and inputting missing values.
-
-### Task 3
-
-Now that the data is ready we will apply statistical techniques to analyze the data and identify insights and trends like: What are the top programming languages that are in demand? What are the top database skills that are in demand? What are the most popular IDEs? And Demographic data like gender and age distribution of developers.
-
-### Task 4
-
-In the fourth task, we'll focus on choosing appropriate visualizations based on the data we want to present using charts, plots, and histograms to help reveal our findings and trends. We are going to access the Data from an SQL database and pull only the data we need into DataFrames.
-
-### Task 5
-
-For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
-
-### Task 6
-
-For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis.
-Full presentation link: https://www.canva.com/design/DAGCO32O1hs/i6ag-UXsZqQ8_E5A-mI9bA/edit?utm_content=DAGCO32O1hs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 ## Table of Contents
 
 - [Data Description](#data-description)
@@ -59,6 +34,7 @@ The dataset used for this analysis is the 2019 Stack Overflow Developer Survey, 
 Note: This randomised subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.
 
 The dataset is available as a .csv file.
+
 ## Tools
 
 - [`python`](https://www.python.org/downloads/) v3.12.2
@@ -71,15 +47,20 @@ The dataset is available as a .csv file.
 - [`Google Looker Studio`](https://lookerstudio.google.com/overview) for dashboards.
 - [`IBM Cognos Analytics`](https://www.ibm.com/products/cognos-analytics) for dashboards.
 
+
 ## Deliverables
 
 ### Task 1: Data Collection
+
+Our first task is to collect data for the technology skills that are most in demand from various sources including job postings, blog posts, and surveys. We will begin by scraping internet websites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. it consist of the following;
 
 - [x] Collecting Data Using APIs
 - [x] Collecting Data Using Web Scraping
 - [x] Exploring Data
 
 ### Task 2: Data Wrangling
+
+Once we've collected enough data we will take the collected data and prepare it for analysis by using data wrangling techniques like finding duplicates, removing duplicates, finding missing values, and inputting missing values. It consist of the following;
 
 - [x] Finding Missing Values
 - [x] Determine Missing Values
@@ -89,30 +70,49 @@ The dataset is available as a .csv file.
 
 ### Task 3: Exploratory Data Analysis
 
+
+Now that the data is ready we will apply statistical techniques to analyze the data and identify insights and trends like: What are the top programming languages that are in demand? What are the top database skills that are in demand? What are the most popular IDEs? And Demographic data like gender and age distribution of developers. the following was handled in Tas 3;
+
 - [x] Distribution
 - [x] Outliers
 - [x] Correlation
 
+
 ### Task 4: Data Visualization
+
+In the fourth task, we'll focus on choosing appropriate visualizations based on the data we want to present using charts, plots, and histograms to help reveal our findings and trends. We are going to access the Data from an SQL database and pull only the data we need into DataFrames. The following was achieved;
 
 - [x] Visualizing Distribution of Data
 - [x] Relationship
 - [x] Composition
 - [x] Comparison
 
-### Task 5: Dashboard Creation
 
-- [x] Dashboards
-
-### Task 6: Presentation of Findings
-
-- [x] Final Presentation
 
 ## Stretch Goals
 
 - [ ] Create Dashboard in Google Looker or Tableau
 
-### [Data Visualization](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/6.Data%20Visualization.ipynb)
+
+### Task 5: Dashboard Creation
+
+For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
+
+- [x] Dashboards
+- [ ] ![#### Click here to view the Insights and  Visualisation (IBM Cognos-Analytics)](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/f592fd13b660466be629b51d16b52d47b4bf6ff4/Capstone%20Project%20Dashboard-Bulus_Umoru.pdf)
+- [ ] #### [Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/5.%20Data%20Visualization.ipynb)
+
+
+### Task 6: Presentation of Findings
+
+For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis.
+
+- [x] Final Presentation
+- [ ] ![#### Click here to view the Report](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/Data%20Analyst%20Capstone%20Project%20Report-Bulus_Umoru.pdf)
+
+
+
+
 
 In this step, we focus on data visualization using data extracted from an RDBMS via SQL queries. The key objectives include:
 - Understanding data distribution to identify patterns and outliers.
@@ -125,9 +125,10 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - Cloud services are expanding beyond AWS, with Google Cloud and Digital Ocean gaining users.
 - React, Spring Boot, and FastAPI are the top web frameworks, with FastAPI becoming more popular for Python-based APIs.
 
-#### You can view the Visualisation through this Link
+## Visualisation Using IBM Cognos-Analytics
 
-![7](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/f592fd13b660466be629b51d16b52d47b4bf6ff4/Capstone%20Project%20Dashboard-Bulus_Umoru.pdf)
+## Report Presentation
+
 
 
 ### Key Takeaways
