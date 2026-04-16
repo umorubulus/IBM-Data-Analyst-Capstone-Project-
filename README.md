@@ -125,13 +125,10 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - Cloud services are expanding beyond AWS, with Google Cloud and Digital Ocean gaining users.
 - React, Spring Boot, and FastAPI are the top web frameworks, with FastAPI becoming more popular for Python-based APIs.
 
-#### Current Technology Usage
-![6][Tab 1 _current Technology in use.png](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/main/Tab%201%20_current%20Technology%20in%20use.png)
-#### Future Technology Trend
-![7](https://github.com/user-attachments/assets/98868617-b1d0-4f1b-b816-a7dac4951ac7)
+#### You can view the Visualisation through this Link
 
-#### Demographics
-![8](https://github.com/user-attachments/assets/4c461948-3190-4d24-95a9-5f8c0d356e72)
+![7](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/f592fd13b660466be629b51d16b52d47b4bf6ff4/Capstone%20Project%20Dashboard-Bulus_Umoru.pdf)
+
 
 ### Key Takeaways
 - SQL and PostgreSQL are must-have skills for database professionals.
