@@ -96,7 +96,9 @@ For task 5, we will employ Cognos/Google Looker Studio to create interactive das
 
 - [x] Dashboards
    ![Click here to view the Insights and  Visualisation (IBM Cognos-Analytics)](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/f592fd13b660466be629b51d16b52d47b4bf6ff4/Capstone%20Project%20Dashboard-Bulus_Umoru.pdf)
-[Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/5.%20Data%20Visualization.ipynb)
+
+[Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-
+Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/5.%20Data%20Visualization.ipynb)
 
 
 ### Task 6: Presentation of Findings
@@ -104,6 +106,7 @@ For task 5, we will employ Cognos/Google Looker Studio to create interactive das
 For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis.
 
 - [x] Final Presentation
+   
    ![Click here to view the Report](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/Data%20Analyst%20Capstone%20Project%20Report-Bulus_Umoru.pdf)
 
 In this step, we focus on data visualization using data extracted from an RDBMS via SQL queries. The key objectives include:
