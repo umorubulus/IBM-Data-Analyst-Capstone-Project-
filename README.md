@@ -126,8 +126,7 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - React, Spring Boot, and FastAPI are the top web frameworks, with FastAPI becoming more popular for Python-based APIs.
 
 #### Current Technology Usage
-![6](Tab 1 _current Technology in use.png)
-
+![6][Tab 1 _current Technology in use.png](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/main/Tab%201%20_current%20Technology%20in%20use.png)
 #### Future Technology Trend
 ![7](https://github.com/user-attachments/assets/98868617-b1d0-4f1b-b816-a7dac4951ac7)
 
