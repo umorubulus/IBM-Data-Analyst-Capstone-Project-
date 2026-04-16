@@ -6,13 +6,11 @@ IBM Data Analyst Capstone Project contains the step by step process of Data Coll
     <img src="https://howtolearnmachinelearning.com/wp-content/uploads/2021/04/coursera_machine_learning_ibm.png?raw=true" alt="IBM and Coursera Logos" width="926" height="133"/>
 </p>
 
-# Data Visualization with Python
+# Project Overview
 
-This is the Capstone Project for Course 9, _IBM Data Analyst Capstone Project_. Part of IBM's Data Analyst Professional Certificate from Coursera. Available here: https://www.coursera.org/programs/jda20232t1-z1hse/professional-certificates/ibm-data-analyst?collectionId=Wxyxq
+For this project, I will assume the role of an Associate Data Analyst at a technology consulting organization. My primary task is to analyze the data and obtain valuable insights into current and future technological trends using the latest Stack Overflow Developer Survey dataset. 
 
-We will take on the role of a Data Analyst with a global IT and Business services firm. In this role, we will be analyzing several datasets to help identify trends for emerging technologies. We have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for its expertise in IT solutions and its team of highly experienced IT consultants. To keep pace with changing technologies and remain competitive, our organization regularly analyzes data to help identify future skill requirements.
-
-As a Data Analyst, we will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills.
+In this project, I will analyze data to answer key questions about the use of technology. I will analyze trends in programming languages, databases, platforms, and frameworks, focusing on those technologies professionals currently use and those they aim to learn in the future. Through careful analysis, I will extract insights highlighting emerging patterns and shifts in the tech landscape. These findings will then be presented to various stakeholders in my organization for informed decision-making.
 
 ### Task 1
 
@@ -54,11 +52,9 @@ Full presentation link: https://www.canva.com/design/DAGCO32O1hs/i6ag-UXsZqQ8_E5
 
 ## Data Description
 
-Stack Overflow, a popular website for developers, conducted an online survey of software professionals across the world. The survey data was later open sourced by Stack Overflow. The actual data set has around 90,000 responses.
+The dataset used for this analysis is the 2019 Stack Overflow Developer Survey, covering everything from developers’ favorite technologies to their job preferences.
 
-The dataset we are going to use comes from the following source: https://stackoverflow.blog/2024/08/06/2024-developer-survey/ under a ODbL: Open Database License.   
-
-We will be given a subset of the original data set in this capstone project. We will explore, analyze, and visualize this dataset and present our analysis.
+[Click here to download the dataset](https://stackoverflow.blog/2024/08/06/2024-developer-survey/) under a ODbL: Open Database License.   
 
 Note: This randomised subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.
 
