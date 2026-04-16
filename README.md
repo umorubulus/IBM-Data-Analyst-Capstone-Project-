@@ -70,13 +70,11 @@ Once we've collected enough data we will take the collected data and prepare it 
 
 ### Task 3: Exploratory Data Analysis
 
-
 Now that the data is ready we will apply statistical techniques to analyze the data and identify insights and trends like: What are the top programming languages that are in demand? What are the top database skills that are in demand? What are the most popular IDEs? And Demographic data like gender and age distribution of developers. the following was handled in Tas 3;
 
 - [x] Distribution
 - [x] Outliers
 - [x] Correlation
-
 
 ### Task 4: Data Visualization
 
@@ -88,19 +86,17 @@ In the fourth task, we'll focus on choosing appropriate visualizations based on 
 - [x] Comparison
 
 
-
 ## Stretch Goals
 
 - [ ] Create Dashboard in Google Looker or Tableau
-
 
 ### Task 5: Dashboard Creation
 
 For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
 
 - [x] Dashboards
-- [ ] ![#### Click here to view the Insights and  Visualisation (IBM Cognos-Analytics)](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/f592fd13b660466be629b51d16b52d47b4bf6ff4/Capstone%20Project%20Dashboard-Bulus_Umoru.pdf)
-- [ ] #### [Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/5.%20Data%20Visualization.ipynb)
+   ![Click here to view the Insights and  Visualisation (IBM Cognos-Analytics)](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/f592fd13b660466be629b51d16b52d47b4bf6ff4/Capstone%20Project%20Dashboard-Bulus_Umoru.pdf)
+[Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/5.%20Data%20Visualization.ipynb)
 
 
 ### Task 6: Presentation of Findings
@@ -108,11 +104,7 @@ For task 5, we will employ Cognos/Google Looker Studio to create interactive das
 For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis.
 
 - [x] Final Presentation
-- [ ] ![#### Click here to view the Report](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/Data%20Analyst%20Capstone%20Project%20Report-Bulus_Umoru.pdf)
-
-
-
-
+   ![Click here to view the Report](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/Data%20Analyst%20Capstone%20Project%20Report-Bulus_Umoru.pdf)
 
 In this step, we focus on data visualization using data extracted from an RDBMS via SQL queries. The key objectives include:
 - Understanding data distribution to identify patterns and outliers.
@@ -124,12 +116,6 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - C# and SQL are in high demand, while JavaScript is still popular but slightly less preferred.
 - Cloud services are expanding beyond AWS, with Google Cloud and Digital Ocean gaining users.
 - React, Spring Boot, and FastAPI are the top web frameworks, with FastAPI becoming more popular for Python-based APIs.
-
-## Visualisation Using IBM Cognos-Analytics
-
-## Report Presentation
-
-
 
 ### Key Takeaways
 - SQL and PostgreSQL are must-have skills for database professionals.
