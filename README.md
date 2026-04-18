@@ -95,7 +95,7 @@ In the fourth task, we'll focus on choosing appropriate visualizations based on 
 For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
 
 - [x] Dashboards
-   ![Click here to view the Insights and  Visualisation (IBM Cognos-Analytics)](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/f592fd13b660466be629b51d16b52d47b4bf6ff4/Capstone%20Project%20Dashboard-Bulus_Umoru.pdf)
+   <img src = "Tab1_current Technology in use.png" width ="800" >
 
 ![Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/69db49d4fa85da08632aae69913b5df776a24c01/5.%20Data%20Visualization.ipynb)
 
