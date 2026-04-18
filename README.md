@@ -95,9 +95,14 @@ In the fourth task, we'll focus on choosing appropriate visualizations based on 
 For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
 
 - [x] Dashboards
-   <img src = "Tab 1 _current Technology in use.png" width ="800" >
-    <img src = "Tab 2 Future Technology trends.png" width ="800" >
-     <img src = "Tab 3 Demography.png" width ="800" >
+#### Current Technology in Use
+<img src = "Tab 1 _current Technology in use.png" width ="800" >
+
+#### Future Technology to be Used 
+<img src = "Tab 2 Future Technology trends.png" width ="800" >
+
+#### Demography
+<img src = "Tab 3 Demography.png" width ="800" >
 
 ![Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/69db49d4fa85da08632aae69913b5df776a24c01/5.%20Data%20Visualization.ipynb)
 
