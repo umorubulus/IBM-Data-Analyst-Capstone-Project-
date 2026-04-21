@@ -104,7 +104,7 @@ For task 5, we will employ Cognos/Google Looker Studio to create interactive das
 #### Demography
 <img src = "Tab 3 Demography.png" width ="800" >
 
-![Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/69db49d4fa85da08632aae69913b5df776a24c01/5.%20Data%20Visualization.ipynb)
+[Python Data Visualization](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/69db49d4fa85da08632aae69913b5df776a24c01/5.%20Data%20Visualization.ipynb)
 
 
 ### Task 6: Presentation of Findings
@@ -113,7 +113,7 @@ For the final task, we will use our storytelling skills to provide a narrative a
 
 - [x] Final Presentation
    
-   ![Click here to view the Report](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/Data%20Analyst%20Capstone%20Project%20Report-Bulus_Umoru.pdf)
+   [Click here to view the Report](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-/blob/b4f5a110346c87dc3ec771bdab08b66ab4274750/Data%20Analyst%20Capstone%20Project%20Report-Bulus_Umoru.pdf)
 
 In this step, we focus on data visualization using data extracted from an RDBMS via SQL queries. The key objectives include:
 - Understanding data distribution to identify patterns and outliers.
